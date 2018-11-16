@@ -1,0 +1,8 @@
+Ente side of a cube:4
+Volume of a cube is=64
+Enter radious and height of cylinder:3 5
+Volume of cylinder is=141.3
+Enter length,breadth and height of rectangle: 4 3 5
+Volume of rectangle =60
+
+

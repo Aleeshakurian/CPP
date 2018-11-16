@@ -1,0 +1,3 @@
+Enter two numbers:6 81
+Sum =87
+

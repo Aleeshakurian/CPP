@@ -1,0 +1,7 @@
+Stack initialized
+Stack initialized
+3 4 1 2 
+Stack destroyed
+
+Stack destroyed
+

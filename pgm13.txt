@@ -1,0 +1,7 @@
+Enter width and height of rectangle: 4 5
+Area of rectangle=20
+Enter side of square:2.3
+Area of Square=5.29
+Enter radious of circle:4.2
+Area of circle=55.3896
+

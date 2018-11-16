@@ -1,0 +1,6 @@
+Enter feet and inch :4 9
+Enter feet and inch :10 5
+feet=4 inch=9 
+feet=10 inch=5 
+Sum of feet and inch is:
+feet=15 inch=2 

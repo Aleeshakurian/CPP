@@ -1,0 +1,13 @@
+Enter title and price:Algorithms 350
+Enter number of pages: 300
+Enter title and price: c++
+50
+Enter duration :20m
+.......DETAILS.........
+Title:Algorithms
+Price :350
+No. of pages:300
+Title:c++
+Price :50
+Duration of cd:20
+

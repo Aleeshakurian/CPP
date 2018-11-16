@@ -1,0 +1,40 @@
+
+
+1.	Program to calculate sum of two numbers using class.
+
+2.	Program to add points using class.
+
+3.	Write a program to create a class String with member variable, character array for string , define constructors, member functions for copying a string to another and concatenating two strings together.
+
+4.	Write a program to create a class Distance with member variables feet and inch .Define constructors, member functions for reading, displaying and adding two distances.
+
+5.	Write a program to create a class Stack with member variables, an array of integers and top of the stack. Define constructors, destructor and member functions PUSH and POP.
+
+6.	Write a C++ program to find the largest of three numbers using inline function.
+
+7.	Create a class 'COMPLEX' to hold a complex number. Write a friend function to add two complex numbers. Write a main function to add two COMPLEX objects.
+
+8.	Write a program to find minimum of two values for demonstrate friend classes .
+
+9.	Write a program to find volume of cube , cylinder and rectangle using function overloading.
+
+10.	Create a 'MATRIX' class of size m X n. Overload the ‘+’ operator to add two MATRIX objects. Write a main function to implement it.
+
+11.	Program to implement inheritance.( publisher, book, Cd)
+
+12.	Program to implement virtual base class.
+
+13.	Program to implement polymorphism.
+
+14.	Program to implement virtual functions.
+
+15.	Program to implement C++ files.( Create student marklist)
+
+16.	Program to demonstrate IO based program.
+
+17.	Program to demonstrate IO based program.
+
+18.	Program to demonstrate Standard Template Library(STL).
+
+
+

@@ -1,0 +1,10 @@
+Enter first point
+1 2
+Enter second point
+2 4
+First and second point is
+1 2
+2 4
+sum is
+3 6
+

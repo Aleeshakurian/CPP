@@ -1,0 +1,6 @@
+Two strings are:
+hai
+hello
+Copied string str1=hello
+concatenated  string str1=hellohello
+
